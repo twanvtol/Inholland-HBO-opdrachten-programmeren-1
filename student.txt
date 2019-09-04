@@ -1,0 +1,3 @@
+student name: Twan van Tol
+student number: 642226
+student class: HAINF1SD
